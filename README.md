@@ -5,13 +5,13 @@
 
 # 👋 Hi, I'm **Dhanasekaran**
 
-### 🚀 MERN Stack Developer | Full-Stack Developer  
+### MERN Stack Developer | Full-Stack Developer  
 I am a passionate **MERN Stack Developer** who recently completed a certified MERN development program.  
 I enjoy building dynamic, scalable web applications and I'm currently **seeking an opportunity** to kickstart my IT career.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,42 +36,33 @@ I enjoy building dynamic, scalable web applications and I'm currently **seeking 
 
 ---
 
-## 🌱 Currently Learning  
+## Currently Learning  
 - Advanced MERN stack concepts  
 - UI/UX and frontend design patterns  
 - Building more full-stack projects
 
 ---
 
-## 💼 Open To Opportunities  
+## Open To Opportunities  
 Seeking roles like:  
-✔ MERN Stack Developer  
-✔ Full Stack Developer  
-✔ Frontend Developer (React.js)  
+- MERN Stack Developer  
+- Full Stack Developer  
+- Frontend Developer (React.js)  
 
 ---
 
-## 📫 Contact Me  
+##  Contact Me  
 📧 **Email:** 2001.dhanasekaran@gmail.com  
 📞 **Phone:** +91 9597685056  
-🌐 **LinkedIn:** *Add your link here*  
-💼 **Portfolio:** *Add your portfolio once ready (I can help you create one!)*
+🌐 **LinkedIn:** https://www.linkedin.com/in/dhanasekaran-p-1911b3209/  
+💼 **Portfolio:** https://gleaming-gaufre-cf1d3f.netlify.app/
 
 ---
 
-## 🔗 Social Profiles  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
----
-
-## 📌 Featured Projects  
-> Add your project links here. I can help you write descriptions if needed.
-
-### 🏋️‍♂️ **My Gym – Gym Locator App**  
+### **My Gym – Gym Locator App**  
 A modern UI/UX-focused gym locator app built for athletes and fitness enthusiasts.
 
-### 🛒 **Stationery E-Commerce Website (MERN Stack)**  
+### **Stationery E-Commerce Website (MERN Stack)**  
 Full-stack shopping platform with product uploads, admin dashboard, authentication & more.
 
 ---
