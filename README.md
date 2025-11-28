@@ -67,17 +67,6 @@ Full-stack shopping platform with product uploads, admin dashboard, authenticati
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhanasekaran&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanasekaran&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🚀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhanasekaran&label=Views&color=0e75b6&style=flat)
 
