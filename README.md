@@ -19,7 +19,7 @@ I enjoy building dynamic, scalable web applications and I'm currently **seeking 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -35,7 +35,6 @@ I enjoy building dynamic, scalable web applications and I'm currently **seeking 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## Currently Learning  
 - Advanced MERN stack concepts  
 - UI/UX and frontend design patterns  
@@ -58,7 +57,7 @@ Seeking roles like:
 💼 **Portfolio:** https://gleaming-gaufre-cf1d3f.netlify.app/
 
 ---
-
+##  Projects
 ### **My Gym – Gym Locator App**  
 A modern UI/UX-focused gym locator app built for athletes and fitness enthusiasts.
 
